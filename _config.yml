@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Franko_Liu"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Yiyang Liu, Math/DS/CS from UM"
   links:
