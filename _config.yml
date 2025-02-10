@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: YL
-email:liuyiyan@umich.edu
-description: Yiyang Liu, Math/DS/CS from UM, To_be_continue
-twitter_username: N/A
+title: "YL"
+email: "huaji927@gmail.com"
+description: >- # this means to ignore newlines until "baseurl:"
+  "Franko Liu's Blog"
 github_username: cowonesheep
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: "mint"
 search: true
 
 # Build settings
@@ -55,34 +55,31 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Franko_Liu"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Yiyang Liu, Math/DS/CS from UM"
+  name   : "Yiyang Liu"
+  avatar : "/assets/images/Profile Picture.png"
+  bio    : "UM Math/CS/DS, to be continue"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "google.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:huaji927@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/cowonesheep"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:huaji927@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/cowonesheep"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "google.com"
 
 defaults:
   # _posts
