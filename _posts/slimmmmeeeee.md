@@ -9,5 +9,5 @@ tags:
   - standard
 ---
 
-My first owned indi game(phototype). In this project, I tried to impliment a main character that run with kinemtic and tuned movements, I also learn about guidance in games. All of the part is compleme by me except some free art resouce from online.
-Play the game here: [https://cowonesheep.itch.io/metroid](https://cowonesheep.itch.io/slimmmmeeeee)
+In this project, I developed a main character with kinematic-based movement and fine-tuned controls. I also explored how to design effective player guidance within a game. Every aspect of the project was created by me, except for some free art assets sourced online. The most excited part is i invest into "death" mechism in the game, with descent understanding now. Sadly I dont have enough time to implement more mechism for this is a two week project complete within school days. 
+Play the game here: https://cowonesheep.itch.io/slimmmmeeeee
